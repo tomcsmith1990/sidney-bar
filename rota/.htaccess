@@ -1,0 +1,4 @@
+AuthType Ucam-WebAuth
+Require valid-user
+
+DirectoryIndex rota.html
